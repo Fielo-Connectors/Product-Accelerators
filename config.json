@@ -1,0 +1,16 @@
+{
+	"type":"repository",
+	"version":"master",
+	"category":"Commerce Cloud",
+	"name":"Product B2B",
+	"image":"https://drive.google.com/open?id=1q30PeqGRIZkTa_lpQ_6lgEanRTpUR3Wx",
+	"description":"Get the Following Boosters: Increase the Number sold products",
+	
+	"dependencies":[
+		{
+			"type":"linkRepository",
+			"version":"master",
+			"name":"FieloIncentiveAutomation/fielodeploy"
+		}
+	]
+}
